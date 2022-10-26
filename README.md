@@ -2,7 +2,7 @@
 
 Thank's for passing by! Here's what I've been working with lately:
 
-<img href="page.html" onclick="return false" align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=OctavioFurio&show_icons=true&theme=gruvbox" />
+<img href="page.html" onclick="return false" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=OctavioFurio&show_icons=true&theme=gruvbox" />
 
 <img href="page.html" onclick="return false" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioFurio&layout=compact" />
 
